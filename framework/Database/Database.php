@@ -1,21 +1,36 @@
 <?php
 
+namespace Framework\Database;
+
+use PDO;
+
 class Database
 {
-    public $config;
+    protected $pdo;
 
-
-    public function __construct($config)
+    public function __construct($pdo)
     {
-        $this->config = $config;
-        $this->connection = new Connection($config);
+        $this->pdo = $pdo;
     }
 
-    function selectAll($table) {
-        return fetchAllTasks($this->connection->connectDB($this->config));
+    public function selectAll($table) {
+
+        $statement = $this->pdo->prepare("SELECT * FROM $table;");
+
+        $statement->execute();
+
+        return $statement->fetchAll(PDO::FETCH_CLASS);
+
     }
 
-    function insert() {
+
+    function insert($table, $parameters) {
+        $sql =sprintf(
+            'insert into %s (%s) values (%s)',
+            $table,
+            implode(', ', array_keys($parameters)),
+            ':' . implode(', ', array_keys($parameters))
+        );
 
     }
 }
