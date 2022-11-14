@@ -10,6 +10,9 @@ php_laravel
 
 ·v0.4: Separar la configuracio (config.php) del codi -> Open to extension closed to modification
 
+·v0.5: Reafctoritzacio feta per PDO i afegit composer.json per funcionar amb autoloads i no necessitar rquires. També namespaces en php.
+
+
 # Videos
 -Video 1 acabat
 
