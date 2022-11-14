@@ -18,7 +18,7 @@ php_laravel
 
 -Video 2 acabat
 
--Video 3 en procés
+-Video 3 1:04:45
 
 
 
