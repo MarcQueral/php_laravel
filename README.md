@@ -14,7 +14,10 @@ php_laravel
 
 ·v0.6: Edició dels fitxers connection i database.
 
-·v0.7: 
+·v0.7: Utilitzar paquets amb composer. Utilitzar .env dotenv
+
+·v0.8: Petitar refactorització per utilitzar els helpers amb composer autoload
+
 
 # Videos
 -Video 1 acabat
@@ -25,7 +28,9 @@ php_laravel
 
 -Video 4 acabat
 
--Video 5 en procés
+-Video 5 acabat
+
+-Video 6 en procés
 
 
 
