@@ -12,6 +12,9 @@ php_laravel
 
 ·v0.5: Reafctoritzacio feta per PDO i afegit composer.json per funcionar amb autoloads i no necessitar rquires. També namespaces en php.
 
+·v0.6: Edició dels fitxers connection i database.
+
+·v0.7: 
 
 # Videos
 -Video 1 acabat
