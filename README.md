@@ -18,6 +18,8 @@ php_laravel
 
 ·v0.8: Petitar refactorització per utilitzar els helpers amb composer autoload
 
+·v0.9: Primera versio per acabar del encaminador o router
+
 
 # Videos
 -Video 1 acabat
@@ -30,7 +32,9 @@ php_laravel
 
 -Video 5 acabat
 
--Video 6 en procés
+-Video 6 acabat
+
+-Video 7 en procés
 
 
 
