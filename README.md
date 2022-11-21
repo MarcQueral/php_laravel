@@ -32,7 +32,7 @@ php_laravel
 
 -Video 5 acabat
 
--Video 6 acabat
+-Video 6 acabat (falta codi 404.php, ja que no em deixa copiar el codi de tailwindui.com)
 
 -Video 7 en procés
 
