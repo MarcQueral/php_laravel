@@ -5,7 +5,7 @@
 <div class="py-10">
         <header>
             <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-                <h1 class="text-3xl font-bold leading-tight tracking-tight text-gray-900">Tasks</h1>
+                <h1 class="text-3xl font-bold leading-tight tracking-tight text-gray-900">Tasques</h1>
             </div>
         </header>
         <main>
@@ -39,11 +39,10 @@
                                             <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500"><?=$task->description;?></td>
                                             <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500"><?=$task->completed;?></td>
                                             <td class="relative whitespace-nowrap py-4 pl-3 pr-4 text-right text-sm font-medium sm:pr-6">
-                                                <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit<span class="sr-only">, Lindsay Walton</span></a>
+                                                <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit</a>
                                             </td>
                                         </tr>
                                         <?php endforeach; ?>
-
                                         </tbody>
                                     </table>
                                 </div>
