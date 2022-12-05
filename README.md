@@ -22,6 +22,8 @@ php_laravel
 
 ·v0.9: Primera versio per acabar del encaminador o router
 
+·v1.0: Refactorització de les vistes utilitzant layout. Codi DRY
+
 
 # Videos
 -Video 1 acabat
@@ -36,7 +38,9 @@ php_laravel
 
 -Video 6 acabat
 
--Video 7 8:12
+-Video 7 acabat
+
+-Video 8 en procés
 
 
 
