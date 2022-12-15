@@ -44,7 +44,9 @@ Podeu veure el resultat de l'aplicació a: http://phpforlaravel.marcqueral.me
 
 -Video 8 acabat
 
--Video 9 en procés
+-Video 9 acabat
+
+-Video 10 en procés
 
 
 
