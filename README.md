@@ -40,7 +40,7 @@ php_laravel
 
 -Video 7 acabat
 
--Video 8 falta revisar el final
+-Video 8 falta revisar el final mirant video Laravel Forge (20:00min)
 
 
 
