@@ -1,10 +1,11 @@
 # PHP_LARAVEL
+Aquest repositori va sobre un curs PHP i Laravel, el qual faig el seguiment amb un conjunt de vídeos. L'enllaç web d'aquests està a l'apartat de Vídeos que trobareu a sota i podeu accedir a ells al youtube de acacha-dev.
 
 # Aplicació final
 Podeu veure el resultat de l'aplicació a: http://phpforlaravel.marcqueral.me
 
 # Tags
-·WET
+·WET: Exemple de males pràctiques WET
 
 ·v0.1: Exemple hello world de PHP i HTML sense separation of concerns -> sense MVC
 
@@ -28,6 +29,8 @@ Podeu veure el resultat de l'aplicació a: http://phpforlaravel.marcqueral.me
 
 
 # Videos
+Enllaç web dels vídeos PHP: https://tubeme.acacha.org/php
+
 -Video 1 acabat
 
 -Video 2 acabat
