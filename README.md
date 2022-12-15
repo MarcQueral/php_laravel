@@ -1,5 +1,7 @@
-# php_laravel
-php_laravel
+# PHP_LARAVEL
+
+# Aplicació final
+Podeu veure el resultat de l'aplicació a: http://phpforlaravel.marcqueral.me
 
 # Tags
 ·WET
