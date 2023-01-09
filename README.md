@@ -52,6 +52,7 @@ Enllaç web dels vídeos PHP: https://tubeme.acacha.org/php
 -Video 10 en procés
 
 
+# Comandes interessants
 Per pujar el contingut a production realitzat a la branca master s'han d'executar les següents comandes:
 
   -git checkout production 
