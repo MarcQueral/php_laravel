@@ -75,6 +75,8 @@ Enllaç web dels vídeos PHP: https://tubeme.acacha.org/php
 
 >git push origin master / production
 
+**Per solucionar errors determinats de codi**
+>composer dumpautoload
 
 # Enllaços d'interès
 Documentació markdown: https://help.start.gg/en/articles/1987102-customizing-text-with-markdown
