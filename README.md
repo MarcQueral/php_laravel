@@ -65,6 +65,3 @@ Per pujar el contingut a production realitzat a la branca master s'han d'executa
 
   -git push origin production
 
-
-
-Creat per Marc Queral Fortuño
