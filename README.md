@@ -65,3 +65,6 @@ Per pujar el contingut a production realitzat a la branca master s'han d'executa
 
 >git push origin production
 
+
+# Enllaços d'interès
+Documentació markdown: https://help.start.gg/en/articles/1987102-customizing-text-with-markdown
