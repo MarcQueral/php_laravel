@@ -55,7 +55,7 @@ Enllaç web dels vídeos PHP: https://tubeme.acacha.org/php
 # Comandes interessants
 Per pujar el contingut a production realitzat a la branca master s'han d'executar les següents comandes:
 
--git checkout production 
+>git checkout production 
 
 -git merge master
 
