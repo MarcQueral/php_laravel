@@ -52,6 +52,12 @@ Enllaç web dels vídeos PHP: https://tubeme.acacha.org/php
 -Video 10 en procés
 
 
+Per pujar el contingut a production realitzat a la branca master:
+git checkout production 
+git merge master
+git checkout master
+git push origin master
+git push origin production
 
 
 
