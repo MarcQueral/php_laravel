@@ -49,7 +49,9 @@ Enllaç web dels vídeos PHP: https://tubeme.acacha.org/php
 
 -Video 9 acabat
 
--Video 10 en procés
+-Video 10 acabat
+
+-Video 11 en procès
 
 
 # Comandes interessants
