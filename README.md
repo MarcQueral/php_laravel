@@ -52,13 +52,29 @@ Enllaç web dels vídeos PHP: https://tubeme.acacha.org/php
 -Video 10 en procés
 
 
-Per pujar el contingut a production realitzat a la branca master:
-git checkout production 
-git merge master
-git checkout master
-git push origin master
-git push origin production
+# Comandes interessants
+Per pujar el contingut a production realitzat a la branca master s'han d'executar les següents comandes:
+
+>git checkout production 
+
+>git merge master
+
+>git checkout master
+
+>git push origin master
+
+>git push origin production
+
+Per pujar contingut a github després de finalitzar un vídeo:
+
+>git status
+
+>git add .
+
+>git commit -a -m "Missatge"
+
+>git push origin master / production
 
 
-
-Creat per Marc Queral Fortuño
+# Enllaços d'interès
+Documentació markdown: https://help.start.gg/en/articles/1987102-customizing-text-with-markdown
