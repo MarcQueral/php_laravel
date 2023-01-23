@@ -49,7 +49,7 @@ Enllaç web dels vídeos PHP: https://tubeme.acacha.org/php
 
 -Video 9 acabat
 
--Video 10 acabat (Falta pujar repositori _def al github)
+-Video 10 acabat 
 
 -Video 11 en procès 
 
