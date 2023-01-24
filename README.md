@@ -49,13 +49,20 @@ Enllaç web dels vídeos PHP: https://tubeme.acacha.org/php
 
 -Video 9 acabat
 
+<<<<<<< HEAD
 -Video 10 acabat
 
 -Video 11 en procès
 
+-Video 10 acabat 
+
+-Video 11 acabat
+
+-Video 12 en procès
+
 
 # Comandes interessants
-Per pujar el contingut a production realitzat a la branca master s'han d'executar les següents comandes:
+**Per pujar el contingut a production realitzat a la branca master s'han d'executar les següents comandes:**
 
 >git checkout production 
 
@@ -67,7 +74,7 @@ Per pujar el contingut a production realitzat a la branca master s'han d'executa
 
 >git push origin production
 
-Per pujar contingut a github després de finalitzar un vídeo:
+**Per pujar contingut a github després de finalitzar un vídeo:**
 
 >git status
 
@@ -77,6 +84,8 @@ Per pujar contingut a github després de finalitzar un vídeo:
 
 >git push origin master / production
 
+**Per arreglar errors de codi que el composer no ha vist:**
+>composer dumpautoload
 
 # Enllaços d'interès
 Documentació markdown: https://help.start.gg/en/articles/1987102-customizing-text-with-markdown
