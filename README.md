@@ -79,7 +79,7 @@ Enllaç web dels vídeos PHP: https://tubeme.acacha.org/php
 
 >git push origin master / production
 
-**Per arreglar errors de codi que el composer no ha vist**
+**Per arreglar errors de codi que el composer no ha vist:**
 >composer dumpautoload
 
 # Enllaços d'interès
