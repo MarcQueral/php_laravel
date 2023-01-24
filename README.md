@@ -51,7 +51,9 @@ Enllaç web dels vídeos PHP: https://tubeme.acacha.org/php
 
 -Video 10 acabat 
 
--Video 11 49:06
+-Video 11 acabat
+
+-Video 12 en procès
 
 
 # Comandes interessants
