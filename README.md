@@ -51,7 +51,7 @@ Enllaç web dels vídeos PHP: https://tubeme.acacha.org/php
 
 -Video 10 acabat
 
--Video 11 acabat
+-Video 11 acabat (Falta fer el push)
 
 -Video 12 en procès
 
